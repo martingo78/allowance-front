@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "jss": "latest",
-    "jss-preset-default": "latest",
+    "jss": "^8.1.0",
+    "jss-preset-default": "^3.0.0",
     "material-ui": "next",
     "prop-types": "latest",
     "react": "latest",
@@ -12,8 +12,8 @@
     "react-jss": "latest",
     "react-scripts": "latest",
     "recompose": "latest",
-    "truffle-contract": "latest",
-    "web3": "latest"
+    "truffle-contract": "^3.0.1",
+    "web3": "^1.0.0-beta.26"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -22,6 +22,6 @@
     "eject": "react-scripts eject"
   },
   "devDependencies": {
-    "solidity-coverage": "latest"
+    "solidity-coverage": "^0.4.2"
   }
 }
